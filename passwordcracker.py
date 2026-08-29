@@ -1,5 +1,5 @@
 """
-FORGE WITH CODE
+CODE WITH VRUSHABH
 Password Cracking Simulator
 Educational / Local Simulation Only
 
@@ -80,7 +80,7 @@ def format_number(number):
 def simulate_crack(target):
 
     print("\n" + "=" * 60)
-    print("        FORGE WITH CODE — PASSWORD SIMULATOR")
+    print("        CODE WITH VRUSHABH — PASSWORD SIMULATOR")
     print("=" * 60)
 
     score, level = analyze_password(target)
